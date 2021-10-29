@@ -1,3 +1,4 @@
+
 name: Build Next.js web application
 on: push
 jobs:
