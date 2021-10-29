@@ -12,7 +12,7 @@
                     {
                         "name": "smoketest",
                         "properties": {
-                            "image": "msusdev/webnext",
+                            "image": "abhinay12345/web-app",
                             "resources": {
                                 "requests": {
                                     "cpu": 1.0,
