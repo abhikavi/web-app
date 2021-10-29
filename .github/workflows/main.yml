@@ -2,7 +2,7 @@ name: Build Next.js web application
 on: push
 jobs:
   build-project:
-    name: Build Project
+    name: Build Next.js project
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
