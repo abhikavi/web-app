@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . /app
 
-RUN apt npm install
+RUN npm install
 RUN npm run build
 
 EXPOSE 80
